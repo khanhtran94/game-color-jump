@@ -1,0 +1,3 @@
+local StoneController = {}
+
+return StoneController
